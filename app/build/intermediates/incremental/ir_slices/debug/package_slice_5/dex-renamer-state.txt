@@ -1,0 +1,4 @@
+#Mon Dec 17 14:09:53 BRST 2018
+base.0=C\:\\Users\\joao.bandeira\\Desktop\\Nova pasta\\retrofitJoao\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex
